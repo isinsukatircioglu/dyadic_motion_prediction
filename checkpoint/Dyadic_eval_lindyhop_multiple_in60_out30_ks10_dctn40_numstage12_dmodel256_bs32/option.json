@@ -1,0 +1,22 @@
+{
+    "exp": "Dyadic_eval_lindyhop_multiple_in60_out30_ks10_dctn40_numstage12_dmodel256_bs32",
+    "is_eval": false,
+    "ckpt": "./checkpoint/Dyadic_eval_lindyhop_multiple_in60_out30_ks10_dctn40_numstage12_dmodel256_bs32",
+    "skip_rate": 1,
+    "skip_rate_test": 1,
+    "in_features": 57,
+    "num_stage": 12,
+    "d_model": 256,
+    "kernel_size": 10,
+    "drop_out": 0.5,
+    "input_n": 60,
+    "output_n": 30,
+    "dct_n": 40,
+    "itera": 1,
+    "lr_now": 0.0005,
+    "max_norm": 10000,
+    "epoch": 500,
+    "batch_size": 32,
+    "test_batch_size": 32,
+    "is_load": false
+}
