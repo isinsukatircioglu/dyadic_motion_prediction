@@ -12,7 +12,7 @@ To train the model, run the following command:
 >python train_lindyhop_multiple.py
 
 ## Evaluation
-Download the [pre-trained models](https://drive.google.com/drive/folders/1yASlB16LMQFviFVZUMa7FtH2tb5kdsF0?usp=sharing)
+Download the [pre-trained model](https://drive.google.com/drive/folders/1yASlB16LMQFviFVZUMa7FtH2tb5kdsF0?usp=sharing) and put it inside the pretrained folder.
 To evaluate the pretrained model on the test subjects, run the following command:
 >python eval_lindyhop_multiple.py
 
